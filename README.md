@@ -23,3 +23,4 @@ bash ./buildAndRun.bash
 
 ### reference
 * https://go-review.googlesource.com/#/c/2127/7/misc/ios/README
+* https://medium.com/using-go-in-mobile-apps/using-go-in-mobile-apps-part-2-building-an-ios-app-with-go-build-eb1fc3b56c99
