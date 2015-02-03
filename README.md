@@ -1,5 +1,9 @@
 go ios hello world project
 =============
+[![GitHub stars](https://img.shields.io/github/stars/bronze1man/yaml2json.svg)](https://github.com/bronze1man/yaml2json/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bronze1man/yaml2json.svg)](https://github.com/bronze1man/yaml2json/network)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/bronze1man/goIosHelloWorld/blob/master/LICENSE)
+
 ### Requirements
 * Mac OS X
 * homebrew
