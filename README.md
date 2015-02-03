@@ -1,5 +1,6 @@
 go ios hello world project
 =============
+[![GitHub issues](https://img.shields.io/github/issues/bronze1man/goIosHelloWorld.svg)](https://github.com/bronze1man/goIosHelloWorld/issues)
 [![GitHub stars](https://img.shields.io/github/stars/bronze1man/goIosHelloWorld.svg)](https://github.com/bronze1man/goIosHelloWorld/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/bronze1man/goIosHelloWorld.svg)](https://github.com/bronze1man/goIosHelloWorld/network)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/bronze1man/goIosHelloWorld/blob/master/LICENSE)
